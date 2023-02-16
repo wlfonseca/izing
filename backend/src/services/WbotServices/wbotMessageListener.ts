@@ -14,7 +14,12 @@ const wbotMessageListener = (wbot: Session): void => {
     if (msg.isStatus) {
       return;
     }
+    if (msg.fromMe) {
+      return;
+    }
+    
     HandleMessage(msg, wbot);
+
   });
 
   wbot.on("media_uploaded", async msg => {

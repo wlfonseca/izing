@@ -118,7 +118,7 @@ const HandleMessage = async (
           });
         }
 
-        // await verifyBusinessHours(msg, ticket);
+        //await verifyBusinessHours(msg, ticket);
         resolve();
       } catch (err) {
         logger.error(err);
