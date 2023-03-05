@@ -12,17 +12,17 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "apexcharts": "^3.32.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.3",
     "core-js": "^3.6.5",
     "date-fns": "^2.16.1",
     "drawflow": "0.0.53",
     "js-base64": "^3.7.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mic-recorder-to-mp3": "^2.2.2",
     "printd": "^1.4.2",
     "qrcode.vue": "^1.7.0",
     "quasar": "^1.0.0",
-    "socket.io-client": "^2.3.1",
+    "socket.io-client": "^2.4.0",
     "v-emoji-picker": "^2.3.1",
     "vdata-parser": "^0.1.5",
     "vue-apexcharts": "^1.6.2",
@@ -33,7 +33,7 @@
     "vuedraggable": "^2.24.3",
     "vuelidate": "^0.7.6",
     "vuelidate-error-extractor": "^2.4.1",
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@quasar/app": "^2.0.0",
