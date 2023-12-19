@@ -18,7 +18,7 @@
   "dependencies": {
     "@androz2091/insta.js": "^1.6.1",
     "@sentry/node": "5.27.0",
-    "@types/pino": "^6.3.5",
+    "@types/pino": "^7.0.0",
     "amqplib": "^0.8.0",
     "asterisk-manager": "^0.2.0",
     "axios": "^0.21.1",
@@ -55,7 +55,7 @@
     "qrcode-terminal": "^0.12.0",
     "redis": "^3.0.2",
     "reflect-metadata": "^0.1.13",
-    "sequelize": "^5.22.5",
+    "sequelize": "^6.1.0",
     "sequelize-typescript": "^1.1.0",
     "sharp": "^0.29.3",
     "slugify": "^1.6.1",
