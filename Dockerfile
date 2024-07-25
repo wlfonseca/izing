@@ -11,7 +11,7 @@ COPY ./frontend/ .
 
 RUN quasar build -m pwa
 
-FROM nginx:stable as production-stage
+FROM nginx:1.26.1-bookworm as production-stage
 RUN mkdir /app
 COPY --from=buildenv /app/dist/pwa /usr/share/nginx/html
 
