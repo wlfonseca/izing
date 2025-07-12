@@ -28,7 +28,7 @@
     "vdata-parser": "^0.1.5",
     "vue": "^2.6.11",
     "vue-apexcharts": "^1.6.2",
-    "vue-codemirror": "^4.0.6",
+    "vue-codemirror": "^5.0.0",
     "vue-easy-lightbox": "^0.14.0",
     "vue-facebook-login-component": "^4.0.2",
     "vue-infinite-loading": "^2.4.5",
